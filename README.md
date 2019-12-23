@@ -1,2 +1,2 @@
 # miniBlog
-Springboot+thymeleaf+sematic
+Springboot+thymeleaf+semantic
